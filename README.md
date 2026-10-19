@@ -1,5 +1,7 @@
 # 澳洲孩子免费数学学习资源
 
+[Airbotix Cheatsheet：直接阅读与分享](CHEATSHEETS.md)
+
 [English](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-ko)
 
 核验日期：2026年10月19日（Australia/Brisbane）。
