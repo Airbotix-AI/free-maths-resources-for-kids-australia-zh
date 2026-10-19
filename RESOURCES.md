@@ -26,3 +26,9 @@
 [English](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-ko)
 
 [README](README.md) · [来源](SOURCES.md)
+
+## 免费英语与阅读资源
+
+按年龄及澳洲年级选资源，附官方来源、免费范围和完整原创练习。选择对应语言；外部课程不自动提供该语言。
+
+[English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
