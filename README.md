@@ -1,6 +1,6 @@
 # 澳洲孩子免费数学学习资源
 
-[Airbotix Cheatsheet：直接阅读与分享](CHEATSHEETS.md)
+[Airbotix Cheatsheet：直接阅读与分享](https://github.com/Airbotix-AI/australian-school-cheatsheets-zh)
 
 [English](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-maths-resources-for-kids-australia-ko)
 

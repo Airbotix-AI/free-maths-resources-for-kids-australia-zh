@@ -36,3 +36,9 @@
 ## Airbotix Cheatsheet：直接阅读与分享
 
 [Airbotix Cheatsheet：直接阅读与分享](CHEATSHEETS.md)
+
+## 独立的 Airbotix Cheatsheet 仓库
+
+[独立的 Airbotix Cheatsheet 仓库](https://github.com/Airbotix-AI/australian-school-cheatsheets-zh)
+
+[English](https://github.com/Airbotix-AI/australian-school-cheatsheets) · [简体中文](https://github.com/Airbotix-AI/australian-school-cheatsheets-zh) · [한국어](https://github.com/Airbotix-AI/australian-school-cheatsheets-ko)
